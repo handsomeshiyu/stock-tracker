@@ -1,3 +1,5 @@
+![CI](https://github.com/handsomeshiyu/stock-tracker/actions/workflows/ci.yml/badge.svg)
+
 # Module 06 Lab — Testing Spring Boot Applications
 
 ## Objective
