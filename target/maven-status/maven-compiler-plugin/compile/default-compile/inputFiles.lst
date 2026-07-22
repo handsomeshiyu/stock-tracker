@@ -1,0 +1,15 @@
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/StockApplication.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/controller/GlobalExceptionHandler.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/controller/PriceController.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/controller/StockController.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/dto/AddPriceRequest.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/dto/CreateStockRequest.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/dto/StockResponse.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/model/HistoricalPrice.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/model/Stock.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/repository/HistoricalPriceRepository.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/repository/JdbcHistoricalPriceRepository.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/repository/JdbcStockRepository.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/repository/StockRepository.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/service/StockService.java
+/Users/workspace/HSBC- training-GZ/spring-jdbc-course/labs/06-testing/src/main/java/com/stocks/service/StockServiceImpl.java
